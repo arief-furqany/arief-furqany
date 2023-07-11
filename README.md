@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning on | Java | Cyber Security | Game Development |
+- 🌱 I’m currently learning on | Java | Cyber Security | Video Editing |
 - 🔭 I am an information technology student at the State Islamic University of Ar-Raniry
